@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaults>
+    <entry>
+        <key>prod_config_sdk_game</key>
+        <value>null</value>
+    </entry>
+    <entry>
+        <key>dev_config_sdk_game</key>
+        <value>null</value>
+    </entry>
+</defaults>
